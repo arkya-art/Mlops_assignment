@@ -1,0 +1,15 @@
+artifact_uri: file:///home/arkya/Mlops_assignment/M24CSA_MLops_assignment_3/mlruns/853378304585719674/892b0dd7dc5b4096897f426e56874f0f/artifacts
+end_time: 1727729549430
+entry_point_name: ''
+experiment_id: '853378304585719674'
+lifecycle_stage: active
+run_id: 892b0dd7dc5b4096897f426e56874f0f
+run_name: Random_Forest
+run_uuid: 892b0dd7dc5b4096897f426e56874f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727729547429
+status: 3
+tags: []
+user_id: arkya

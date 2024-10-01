@@ -1,0 +1,34 @@
+artifact_path: best_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 2.15.1
+model_size_bytes: 616231
+model_uuid: ce26ea7e7f744e829451986cf7f31402
+run_id: 7b59faa930034023bb9c6e1931b221d5
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_payload.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "pclass", "required": true}, {"type": "double",
+    "name": "age", "required": true}, {"type": "double", "name": "sibsp", "required":
+    true}, {"type": "double", "name": "parch", "required": true}, {"type": "double",
+    "name": "fare", "required": true}, {"type": "boolean", "name": "sex_male", "required":
+    true}, {"type": "boolean", "name": "embark_town_Queenstown", "required": true},
+    {"type": "boolean", "name": "embark_town_Southampton", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-09-30 20:51:55.051100'

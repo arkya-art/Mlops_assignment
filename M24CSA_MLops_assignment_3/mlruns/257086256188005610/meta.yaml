@@ -1,0 +1,6 @@
+artifact_location: file:///home/arkya/Mlops_assignment/M24CSA_MLops_assignment_3/mlruns/257086256188005610
+creation_time: 1727761065272
+experiment_id: '257086256188005610'
+last_update_time: 1727761065272
+lifecycle_stage: active
+name: BikeSharing_Experiment

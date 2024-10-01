@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1727729028288
+current_stage: None
+description: null
+last_updated_timestamp: 1727729028288
+name: Best_Titanic_Model
+run_id: 15d9ffb9ece040e2bb4b3857798fbf68
+run_link: null
+source: file:///home/arkya/Mlops_assignment/M24CSA_MLops_assignment_3/mlruns/853378304585719674/15d9ffb9ece040e2bb4b3857798fbf68/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///home/arkya/Mlops_assignment/M24CSA_MLops_assignment_3/mlruns/853378304585719674/15d9ffb9ece040e2bb4b3857798fbf68/artifacts/best_model
+user_id: null
+version: 5
