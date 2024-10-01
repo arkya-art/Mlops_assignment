@@ -1,0 +1,26 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "pclass",
+      "age",
+      "sibsp",
+      "parch",
+      "fare",
+      "sex_male",
+      "embark_town_Queenstown",
+      "embark_town_Southampton"
+    ],
+    "data": [
+      [
+        1.0,
+        35.0,
+        0.0,
+        0.0,
+        135.6333,
+        false,
+        false,
+        true
+      ]
+    ]
+  }
+}

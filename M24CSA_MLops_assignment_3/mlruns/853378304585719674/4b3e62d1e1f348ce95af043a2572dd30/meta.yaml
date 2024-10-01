@@ -1,0 +1,15 @@
+artifact_uri: file:///home/arkya/Mlops_assignment/M24CSA_MLops_assignment_3/mlruns/853378304585719674/4b3e62d1e1f348ce95af043a2572dd30/artifacts
+end_time: 1727729653602
+entry_point_name: ''
+experiment_id: '853378304585719674'
+lifecycle_stage: active
+run_id: 4b3e62d1e1f348ce95af043a2572dd30
+run_name: Best_Model
+run_uuid: 4b3e62d1e1f348ce95af043a2572dd30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727729651140
+status: 3
+tags: []
+user_id: arkya

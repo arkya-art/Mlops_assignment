@@ -1,0 +1,15 @@
+artifact_uri: file:///home/arkya/Mlops_assignment/M24CSA_MLops_assignment_3/mlruns/257086256188005610/eee459e1bc584768aa7a88b2736fc15d/artifacts
+end_time: 1727761391638
+entry_point_name: ''
+experiment_id: '257086256188005610'
+lifecycle_stage: active
+run_id: eee459e1bc584768aa7a88b2736fc15d
+run_name: LinearRegression_BikeSharing
+run_uuid: eee459e1bc584768aa7a88b2736fc15d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727761386430
+status: 3
+tags: []
+user_id: arkya

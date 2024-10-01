@@ -1,0 +1,1 @@
+{"columns": ["pclass", "age", "sibsp", "parch", "fare", "sex_male", "embark_town_Queenstown", "embark_town_Southampton"], "data": [[1, 38.0, 1, 0, 71.2833, false, false, false]]}

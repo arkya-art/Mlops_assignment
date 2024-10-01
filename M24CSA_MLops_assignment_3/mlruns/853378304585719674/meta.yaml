@@ -1,0 +1,6 @@
+artifact_location: file:///home/arkya/Mlops_assignment/M24CSA_MLops_assignment_3/mlruns/853378304585719674
+creation_time: 1727727803872
+experiment_id: '853378304585719674'
+last_update_time: 1727727803872
+lifecycle_stage: active
+name: Titanic_Survival_Prediction

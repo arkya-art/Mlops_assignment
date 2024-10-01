@@ -1,0 +1,15 @@
+artifact_uri: file:///home/arkya/Mlops_assignment/M24CSA_MLops_assignment_3/mlruns/853378304585719674/218e77e20e284700952ef167d370fc99/artifacts
+end_time: 1727727806108
+entry_point_name: ''
+experiment_id: '853378304585719674'
+lifecycle_stage: active
+run_id: 218e77e20e284700952ef167d370fc99
+run_name: Linear_Regression
+run_uuid: 218e77e20e284700952ef167d370fc99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727727805602
+status: 4
+tags: []
+user_id: arkya
